@@ -1,0 +1,9 @@
+dependencies:
+  cmake_utilities:
+    version: 0.*
+  idf:
+    version: '>=4.4.1'
+  iot_usbh_modem:
+    version: 0.1.*
+  led_indicator:
+    version: ~0.3.0
